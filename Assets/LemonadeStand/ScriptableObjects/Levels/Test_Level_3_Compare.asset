@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7821d1b497a1fd469ea50ea7a94272d, type: 3}
+  m_Name: Test_Level_3_Compare
+  m_EditorClassIdentifier: 
+  levelId: test_compare
+  levelType: 2
+  customerPrompt: Which glass can hold the MOST lemonade?
+  sizeOptions: []
+  correctCount: 0
+  containerVolumes: fa000000f401000040010000
+  correctContainerIndex: 1
+  isPractice: 1
+  containerSprites:
+  - {fileID: 21300000, guid: 35b169545b999404699654fe09e8968d, type: 3}
+  - {fileID: 21300000, guid: 2ced97d4ebdb2e848ac24d43e6dc3912, type: 3}
+  - {fileID: 21300000, guid: fdab7e78bb1596246a6b43756f504003, type: 3}
